@@ -590,10 +590,7 @@ function App() {
         )}
       </main>
 
-      {/* Footer */}
-      <footer className="footer">
-        <p>© 2026 Skin Disease Classification CNN Research Dashboard // Created with PyTorch, React & FastAPI</p>
-      </footer>
+
     </div>
   );
 }
